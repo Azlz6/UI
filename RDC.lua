@@ -1,5 +1,5 @@
 blak = Color3.new(0,0,0)
-rede = Color3.new(255/255,0/0,0/255)
+rede = Color3.new(0/0,0/0,0/0)
 tef = "SourceSans"
 whit = Color3.new(255/255,255/255,255/255)
 local cka = Instance.new("ScreenGui")
