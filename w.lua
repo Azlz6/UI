@@ -71,7 +71,7 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(224, 224, 224)
     },
     PurpleTheme = {
-        SchemeColor = Color3.fromRGB(48, 29, 153),
+        SchemeColor = Color3.fromRGB(48, 0, 153),
         Background = Color3.fromRGB(10, 10, 10),
         Header = Color3.fromRGB(5, 5, 5),
         TextColor = Color3.fromRGB(74, 53, 152),
