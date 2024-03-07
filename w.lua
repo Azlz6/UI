@@ -70,11 +70,11 @@ local themeStyles = {
         TextColor = Color3.fromRGB(0,0,0),
         ElementColor = Color3.fromRGB(224, 224, 224)
     },
-    BlueTheme = {
-        SchemeColor = Color3.fromRGB(0, 0, 153),
+    OrangeTheme = {
+        SchemeColor = Color3.fromRGB(204, 73, 2),
         Background = Color3.fromRGB(10, 10, 10),
         Header = Color3.fromRGB(5, 5, 5),
-        TextColor = Color3.fromRGB(24,50,153),
+        TextColor = Color3.fromRGB(240,123,60),
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
     GrapeTheme = {
