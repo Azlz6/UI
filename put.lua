@@ -1,11 +1,3 @@
-local id = game.PlaceId
-if id == 2753915549 then
-	World1 = true
-elseif id == 4442272183 then
-	World2 = true
-elseif id == 7449423635 then
-	World3 = true
-end
 
 World1 = false
 World2 = false
