@@ -1,7 +1,3 @@
-function isnil(thing)
-return (thing == nil)
-end
-
 --- Place Id Check
 local id = game.PlaceId
 if id == 2753915549 then
