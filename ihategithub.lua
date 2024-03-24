@@ -1,7 +1,3 @@
-
-World1 = false
-World2 = false
-World3 = false
 local placeId = game.PlaceId
 if placeId == 2753915549 then
 World1 = true
