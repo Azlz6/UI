@@ -1,9 +1,22 @@
-if game.PlaceId == 2753915549 then
+local id = game.PlaceId
+if id == 2753915549 then
 	World1 = true
-elseif game.PlaceId == 4442272183 then
+elseif id == 4442272183 then
 	World2 = true
-elseif game.PlaceId == 7449423635 then
+elseif id == 7449423635 then
 	World3 = true
+end
+
+World1 = false
+World2 = false
+World3 = false
+local placeId = game.PlaceId
+if placeId == 2753915549 then
+    World1 = true
+elseif placeId == 4442272183 then
+    World2 = true
+elseif placeId == 7449423635 then
+    World3 = true
 end
 
 
