@@ -1,4 +1,4 @@
---- Place Id Check
+
 local id = game.PlaceId
 if id == 2753915549 then
     World1 = true
